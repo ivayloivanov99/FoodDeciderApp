@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodDeciderApp</string>
+    <string name="food_activity_text">Food</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="edit_food_button_text">Edit Food</string>
+    <string name="food_name">Food name</string>
+    <string name="decide_button">Decide what to eat!</string>
+    <string name="food_empty_text">No food added</string>
+</resources>
